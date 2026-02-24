@@ -163,6 +163,17 @@ initial_activities = {
         },
         "max_participants": 16,
         "participants": ["william@mergington.edu", "jacob@mergington.edu"]
+    },
+    "Manga Maniacs": {
+        "description": "Dive into the electrifying world of Japanese Manga! From epic shonen battles to heartfelt slice-of-life tales, discover unforgettable characters and stories that will keep you hooked. Whether you're a seasoned otaku or a curious newcomer, join us and unleash your inner manga hero!",
+        "schedule": "Tuesdays, 5:00 PM",
+        "schedule_details": {
+            "days": ["Tuesday"],
+            "start_time": "17:00",
+            "end_time": "18:00"
+        },
+        "max_participants": 25,
+        "participants": []
     }
 }
 
